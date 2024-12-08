@@ -3,6 +3,8 @@
 
 This project leverages the LangChain library and Google's LLM to generate detailed sales reports based on e-commerce data. The data includes customer profiles and purchase history, and the interface is built using Streamlit.
 
+![streamlit](https://github.com/user-attachments/assets/e5b669df-ac49-4090-b2fd-8398206cd10a)
+
 ## Features
 
 ### Interactive Streamlit Dashboard:
