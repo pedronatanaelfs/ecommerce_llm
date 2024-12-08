@@ -14,8 +14,6 @@ This project leverages the LangChain library and Google's LLM to generate detail
    - Choose an age range for customer segmentation.
    
 2. **Report Options**:
-   - Select the reporting period (Q1, Q2, Q3, Q4).
-   - Choose the reporting year (2022-2025).
    - Select the language for the report:
      - English
      - Portuguese
